@@ -4,57 +4,57 @@ const messages = defineMessages({
   courseStatus: {
     id: 'learner-dash.courseListFilters.courseStatus',
     description: 'course status filter form heading',
-    defaultMessage: 'Course Status',
+    defaultMessage: 'Статус курса',
   },
   inProgress: {
     id: 'learner-dash.courseListFilters.inProgress',
     description: 'in-progress filter checkbox label for course list filters',
-    defaultMessage: 'In-Progress',
+    defaultMessage: 'В процессе',
   },
   notStarted: {
     id: 'learner-dash.courseListFilters.notStarted',
     description: 'Not-Started filter checkbox label for course list filters',
-    defaultMessage: 'Not Started',
+    defaultMessage: 'Не начато',
   },
   done: {
     id: 'learner-dash.courseListFilters.done',
     description: 'done filter checkbox label for course list filters',
-    defaultMessage: 'Done',
+    defaultMessage: 'Готово',
   },
   notEnrolled: {
     id: 'learner-dash.courseListFilters.notEnrolled',
     description: 'not-enrolled filter checkbox label for course list filters',
-    defaultMessage: 'Not Enrolled',
+    defaultMessage: 'Нет записи',
   },
   upgraded: {
     id: 'learner-dash.courseListFilters.upgraded',
     description: 'upgraded filter checkbox label for course list filters',
-    defaultMessage: 'Upgraded',
+    defaultMessage: 'Обновить',
   },
   clearAll: {
     id: 'learner-dash.courseListFilters.clearAll',
     description: 'clear all filters button text',
-    defaultMessage: 'Clear all',
+    defaultMessage: 'Очистить все',
   },
   sort: {
     id: 'learner-dash.courseListFilters.sort',
     description: 'Sort radio form heading',
-    defaultMessage: 'Sort',
+    defaultMessage: 'Сортировка',
   },
   sortLastEnrolled: {
     id: 'learner-dash.courseListFilters.sortLastEnrolled',
     description: 'Last enrolled sort option text',
-    defaultMessage: 'Last enrolled',
+    defaultMessage: 'Последняя регистрация',
   },
   sortTitle: {
     id: 'learner-dash.courseListFilters.sortTitle',
     description: 'Title sort option text',
-    defaultMessage: 'Title (A-Z)',
+    defaultMessage: 'Название (А-Я)',
   },
   refine: {
     id: 'learner-dash.courseListFilters.refine',
     description: 'Filter button container text',
-    defaultMessage: 'Refine',
+    defaultMessage: 'Фильтр',
   },
 });
 
